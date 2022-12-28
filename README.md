@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+#### 🛠️ Github Stats
+
+<p>
+<img height="180em", src="https://github-readme-stats.vercel.app/api?username=chanha-park&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff", alt="GitHub stats"/>
+<img height="180em", src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanha-park&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff", alt="Top Langs"/>
+</p>
+
+
 <!--
 **chanha-park/chanha-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
